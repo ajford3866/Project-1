@@ -1540,7 +1540,7 @@ footer
 
 
 
-@media  (max-width:550px ) {
+@media  (max-width:700px ) {
 
   .nav__links{
 display:none;
@@ -1554,5 +1554,18 @@ display:block ;
   }
 
   
+
+}
+
+
+
+@media (max-width:700px) {
+
+
+.plans {
+  
+ flex-direction:column;
+ text-align:center;
+}
 
 }
