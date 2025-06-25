@@ -1568,4 +1568,9 @@ display:block ;
  text-align:center;
 }
 
+.wrap-img-header {
+flex-direction:column;
+
+}
+
 }
